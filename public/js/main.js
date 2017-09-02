@@ -36,12 +36,11 @@
      // Typing text
      $("#animated-text").typed({
          strings: [
-             "material design",
-             "fully responsive",
-             "startup template",
-             "onepage template.",
-             "mobile first",
-             "multi-purpose"
+             "Управление системами",
+             "Анализ систем",
+             "Информационная безопасность",
+             "Функционирование систем",
+             "Распределенные системы"
          ],
          typeSpeed: 50,
          loop: true,

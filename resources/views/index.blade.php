@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Multiagent systems inc.">
+    <meta name="description" content="Лаборатория мультиагентных систем НИУ ИТМО">
     <meta name="author" content="https://vk.com/muradovalex">
     <title>MAS Inc.</title>
     <!-- Google fonts -->
@@ -37,49 +37,46 @@
     <div class="container">
         <div class="section-heading text-center wow fadeInUp">
             <h2 class="title">О Нас</h2>
-            <h5 class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio blanditiis similique deleniti qui error in.</h5>
+            <h5 class="description">Наши основные области интересов</h5>
         </div>
         <!-- first row -->
         <div class="row">
             <div class="col-md-4 wow fadeInUp">
                 <div class="info info-horizontal">
-                    <div class="icon icon-info">
-                        <i class="fa fa-gift"></i>
+                    <div class="icon icon-success">
+                        <i class="fa fa-cogs"></i>
                     </div>
                     <div class="description">
-                        <h4 class="info-title">Creative Design</h4>
+                        <h4 class="info-title">Управление системами</h4>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet nostrum voluptatum, facere saepe aut repudiandae dolor tempora nemo.
                         </p>
-                        <a href="#up">More...</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInUp">
                 <div class="info info-horizontal">
-                    <div class="icon icon-danger">
-                        <i class="fa fa-heartbeat"></i>
+                    <div class="icon icon-primary">
+                        <i class="fa fa-shield"></i>
                     </div>
                     <div class="description">
-                        <h4 class="info-title">Inspiring</h4>
+                        <h4 class="info-title">Информационная безопасность</h4>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo velit fugiat fugit, soluta quae, reiciendis id vitae necessitatibus.
                         </p>
-                        <a href="#up">More...</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInUp">
                 <div class="info info-horizontal">
-                    <div class="icon icon-success">
-                        <i class="fa fa-cubes"></i>
+                    <div class="icon icon-info">
+                        <i class="fa fa-search"></i>
                     </div>
                     <div class="description">
-                        <h4 class="info-title">Material Design</h4>
+                        <h4 class="info-title">Изучение систем</h4>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic libero repudiandae architecto sint, excepturi cum! Ipsum, aspernatur, corporis.
                         </p>
-                        <a href="#up">More...</a>
                     </div>
                 </div>
             </div>
@@ -97,16 +94,16 @@
         <div class="section-heading text-center wow fadeInUp">
             <h2 class="title text-center">Направления деятельности</h2>
             <ul class="nav nav-pills nav-pills-primary">
-                <li class="active"><a href="#web-design" data-toggle="tab">Web Design</a></li>
-                <li><a href="#web-dev" data-toggle="tab">Web Development</a></li>
-                <li><a href="#desktop" data-toggle="tab">Desktop Apps</a></li>
+                <li class="active"><a href="#social" data-toggle="tab">Социум</a></li>
+                <li><a href="#it" data-toggle="tab">Информационные технологии</a></li>
+                <li><a href="#industry40" data-toggle="tab">Индустрия 4.0</a></li>
             </ul>
             <br>
         </div>
         <div>
             <div class="tab-content tab-space">
                 <!-- tab web-design -->
-                <div class="tab-pane active" id="web-design">
+                <div class="tab-pane active" id="social">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="img-container">
@@ -119,7 +116,7 @@
                                     <i class="fa fa-desktop"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Responsive Design</h4>
+                                    <h4 class="info-title">Расспространение информации в социуме</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate hic odit nisi quo excepturi laudantium?</p>
                                 </div>
                             </div>
@@ -128,17 +125,8 @@
                                     <i class="fa fa-diamond"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Multi-purpose</h4>
+                                    <h4 class="info-title">Поведение толпы в различных условиях</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus reiciendis unde atque voluptate commodi saepe!</p>
-                                </div>
-                            </div>
-                            <div class="info info-horizontal">
-                                <div class="icon icon-primary">
-                                    <i class="fa fa-trophy"></i>
-                                </div>
-                                <div class="description">
-                                    <h4 class="info-title">High Quality</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolor dolorem animi officiis quisquam quia.</p>
                                 </div>
                             </div>
                         </div>
@@ -146,7 +134,7 @@
                 </div>
                 <!-- end tab mobile -->
                 <!-- tab web-dev -->
-                <div class="tab-pane" id="web-dev">
+                <div class="tab-pane" id="it">
                     <div class="row">
                         <div class="col-md-5 col-md-offset-1">
                             <div class="img-container">
@@ -159,7 +147,7 @@
                                     <i class="fa fa-code"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Well Coded</h4>
+                                    <h4 class="info-title">Система защищенной видеосвязи</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate hic odit nisi quo excepturi laudantium?</p>
                                 </div>
                             </div>
@@ -168,17 +156,8 @@
                                     <i class="fa fa-gears"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">PHP Application</h4>
+                                    <h4 class="info-title">Распределенные защищенные сети</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate hic odit nisi quo excepturi laudantium?</p>
-                                </div>
-                            </div>
-                            <div class="info info-horizontal">
-                                <div class="icon icon-primary">
-                                    <i class="fa fa-laptop"></i>
-                                </div>
-                                <div class="description">
-                                    <h4 class="info-title">SAAS Application</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus reiciendis unde atque voluptate commodi saepe!</p>
                                 </div>
                             </div>
                         </div>
@@ -186,7 +165,7 @@
                 </div>
                 <!-- end tab tablet -->
                 <!-- tab desktop -->
-                <div class="tab-pane" id="desktop">
+                <div class="tab-pane" id="industry40">
                     <div class="row">
                         <div class="col-md-5 col-md-offset-1">
                             <div class="img-container">
@@ -199,7 +178,7 @@
                                     <i class="fa fa-desktop"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Desktop App</h4>
+                                    <h4 class="info-title">Умный город, умный дом</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate hic odit nisi quo excepturi laudantium?</p>
                                 </div>
                             </div>
@@ -208,7 +187,7 @@
                                     <i class="fa fa-heart-o"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Mac App</h4>
+                                    <h4 class="info-title">Автономные автомобили</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus reiciendis unde atque voluptate commodi saepe!</p>
                                 </div>
                             </div>
@@ -217,7 +196,7 @@
                                     <i class="fa fa-code"></i>
                                 </div>
                                 <div class="description">
-                                    <h4 class="info-title">Code Quality</h4>
+                                    <h4 class="info-title">Автономное функционирование групп транспортных средств</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolor dolorem animi officiis quisquam quia.</p>
                                 </div>
                             </div>
